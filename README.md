@@ -1,6 +1,6 @@
 <h1 align="center">Photos App Assignment</h1><bl>
 <p align="center">
-    **The** photo app that shows you arbitrary pictures of arbitrary cities. 😁
+    <b>The</b> photo app that shows you arbitrary pictures of arbitrary cities. 😁
 </p>
 <p float="center">
  	<img src="Images/grid-dark.png" width=49%>
